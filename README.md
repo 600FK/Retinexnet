@@ -2,7 +2,7 @@
 This is a Tensorflow implement of RetinexNet
 
 Deep Retinex Decomposition for Low-Light Enhancement. In BMVC'18 (Oral Presentation)<br>
-[Chen Wei*](https://weichen582.github.io/), [Wenjing Wang*](https://daooshee.github.io/website/), [Wenhan Yang](https://flyywh.github.io/), [Jiaying Liu](http://www.icst.pku.edu.cn/struct/people/liujiaying.html). (* indicates equal contributions)<br>
+记录在retinexnet上的所有改进行为<br>
 
 [Paper](https://arxiv.org/abs/1808.04560), [Project Page & Dataset](https://daooshee.github.io/BMVC2018website/)
 
