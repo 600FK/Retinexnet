@@ -1,4 +1,5 @@
 # RetinexNet
+Author：Liming Qi<br>
 This is a Tensorflow implement of RetinexNet
 
 Deep Retinex Decomposition for Low-Light Enhancement. In BMVC'18 (Oral Presentation)<br>
