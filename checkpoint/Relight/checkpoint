@@ -1,0 +1,6 @@
+model_checkpoint_path: "RetinexNet-Relight-700"
+all_model_checkpoint_paths: "RetinexNet-Relight-140"
+all_model_checkpoint_paths: "RetinexNet-Relight-280"
+all_model_checkpoint_paths: "RetinexNet-Relight-420"
+all_model_checkpoint_paths: "RetinexNet-Relight-560"
+all_model_checkpoint_paths: "RetinexNet-Relight-700"
